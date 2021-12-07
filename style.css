@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/* center and set everything to be responsive */
+.container{
+    margin: 0 auto;
+    width: 1440px
+}
+.Bullet{
+    border: 20px solid black;
+}
